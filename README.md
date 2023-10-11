@@ -1,4 +1,4 @@
-### Hi there 👋
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6526ba3cf43a58c923b929f6?variant=dark)](https://roadmap.sh)
 
 <!--
 **darmstrong8008/darmstrong8008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
